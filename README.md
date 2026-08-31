@@ -1,4 +1,5 @@
 # House Price Prediction
+*Created: 2020-09-15*
 
 A Jupyter notebook that **analyzes a housing dataset** and applies statistical analysis and machine learning to **predict property prices**.
 
